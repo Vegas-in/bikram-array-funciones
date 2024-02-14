@@ -15,19 +15,19 @@ En esta ocasión, el bikram se dividirá en :crossed_swords: Pair Programming :c
 
 ### Arrays ###
 
-- [ ] 1.- Crear variable de nombre **arrayVacio** cuyo valor sea **un array vacío**
+- [ v] 1.- Crear variable de nombre **arrayVacio** cuyo valor sea **un array vacío**
 
-- [ ] 2.- Crear variable de nombre **arrayNumeros** declarada con un **array de números del 0 al 9 (0, 1, 2...)**
+- [ v] 2.- Crear variable de nombre **arrayNumeros** declarada con un **array de números del 0 al 9 (0, 1, 2...)**
 
-- [ ] 3.- Crear variable de nombre **arrayNumerosPares** declarada con un **array con los números pares del 0 al 9** (considerando al 0 par)
+- [ v] 3.- Crear variable de nombre **arrayNumerosPares** declarada con un **array con los números pares del 0 al 9** (considerando al 0 par)
 
-- [ ] 4.- Crear variable de nombre **arrayBidimensional** declarada con valor **array [[0, 1, 2], ['a', 'b', 'c']]**
+- [v ] 4.- Crear variable de nombre **arrayBidimensional** declarada con valor **array [[0, 1, 2], ['a', 'b', 'c']]**
 
 ### Funciones ###
 
-- [ ] 5.- Crea la función **suma** que acepte como argumento **dos números** y devuelva **el resultado de su suma**
+- [v ] 5.- Crea la función **suma** que acepte como argumento **dos números** y devuelva **el resultado de su suma**
 
-- [ ] 6.- Crea la función **potenciacion** que acepte como argumento **dos números** y devuelva **el resultado de elevar el primero(a) al segundo(b) (a^b)**
+- [ v] 6.- Crea la función **potenciacion** que acepte como argumento **dos números** y devuelva **el resultado de elevar el primero(a) al segundo(b) (a^b)**
 
 - [ ] 7.- Crea la función **separarPalabras** que acepte como argumento **un string** y devuelva **un array de palabras 'hola mundo' => [hola, mundo]**
 
